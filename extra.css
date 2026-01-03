@@ -1,0 +1,12 @@
+﻿a {
+    color: #0b78d1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.sep {
+    color: #808080;
+}
